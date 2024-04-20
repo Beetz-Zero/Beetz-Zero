@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
+### Social links
 
-Student physicist 
 
-### Languages
 
-I speak English and Russian.
+### Languages, Frameworks etc.
 
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
 
-### Social links
+
+
+
 
 
 
