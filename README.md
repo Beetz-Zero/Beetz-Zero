@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Beetz-Zero/Beetz-Zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,16 @@ Here are some ideas to get you started:
 -->
 
 ### About me
+
+Student physicist 
+
 ### Languages
+
+I speak English and Russian.
+
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=python&logoColor=yellow"/>
+
 ### Social links
+
+
 
