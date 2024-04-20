@@ -21,7 +21,7 @@ Student physicist
 
 I speak English and Russian.
 
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
 
 ### Social links
 
