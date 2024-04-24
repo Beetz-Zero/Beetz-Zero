@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Languages, Frameworks etc.
 
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=orange"/>
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=#ffeb14"/>
 
 
 
