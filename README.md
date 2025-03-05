@@ -12,10 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Обо мне
+
+Студент "Лучшего вуза" специальности Цифровая физика
+Заинтересован в Машинном обучении, анализе данных и прочих штуках
 
 ### Social links
 
-
+<img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> Discord: beetz.
+<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> Telegram: https://t.me/Beetz_Zero 
 
 ### Languages, Frameworks etc.
 
