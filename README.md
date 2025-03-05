@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Social links
 
-<img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> Discord: beetz.
-<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=cplusplus&logoColor=white"/> Telegram: https://t.me/Beetz_Zero 
+<img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>: beetz.
+<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>: [https://t.me/Beetz_Zero] 
 
 ### Languages, Frameworks etc.
 
